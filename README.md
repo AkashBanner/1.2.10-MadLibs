@@ -1,4 +1,4 @@
-Below is a screenshot of using scanner for different types of user inputs consisting of 2 nouns, 1 verb, 1 adjective, 1 plural noun, and 1 adverb.<img width="707" height="442" alt="Screenshot 2025-09-30 112311" src="https://github.com/user-attachments/assets/10a7eefd-bbad-4198-b12c-1dcc2d86f047" />
+Below is a screenshot of using scanner for different types of user inputs consisting of 2 nouns, 1 verb, 1 adjective, 1 plural noun, and 1 adverb.
 <img width="707" height="442" alt="Screenshot 2025-09-30 112311" src="https://github.com/user-attachments/assets/3178a1f0-6b79-4354-b67b-76dce103a03b" />
 
 
